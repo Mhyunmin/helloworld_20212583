@@ -79,3 +79,12 @@ jobs는 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상�
 |Done|정상 종료|
 
 ![image](https://user-images.githubusercontent.com/104884546/171999316-b4beedcf-40d8-4c71-9d76-c8ac0db4eccb.png)
+
+4) ### 리눅스 명령어 jobs
+> **jobs란?** 
+
+jobs는 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경되었지만 보고되지 않은 상태 등을 표시한다.
+
+***
+
+**사용 방법**
